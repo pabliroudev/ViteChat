@@ -1,7 +1,5 @@
 # ViteChat⚡
 
-## Descripción
-
 Hoy os traigo un interesante proyecto que he empleado unos dias y la verdad que me ha gustado mucho el resultado, se trata de ViteChat, una aplicación web en la cual podemos hablar por chat a tiempo real usando una cuenta de Google, las tecnologias que he usado son las siguientes:
 
 - Vite + React
@@ -11,7 +9,13 @@ Hoy os traigo un interesante proyecto que he empleado unos dias y la verdad que 
 
 ## Instalación
 
-Para poder usar este proyecto, debemos tener nuestro gestor de paquetes (recomiendo usar npm) para poder
+Para poder usar este proyecto, debemos tener nuestro gestor de paquetes (recomiendo usar npm) para poder abrir el proyecto
+
+  ```
+    npm install
+
+    npm run dev
+    ```
 
 ## Uso
 
@@ -19,9 +23,7 @@ Proporcione instrucciones y ejemplos de uso. Incluya capturas de pantalla según
 
 Para agregar una captura de pantalla, cree una carpeta `assets/images` en su repositorio y cargue la captura de pantalla en ella. Luego, con la ruta relativa, agréguela a su README utilizando la siguiente sintaxis:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+  
 
 ## Crédito
 
