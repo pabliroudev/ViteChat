@@ -15,11 +15,7 @@ Para poder usar este proyecto, debemos tener nuestro gestor de paquetes (recomie
     npm install
 
     npm run dev
-
-  ´´´
-
-
-Si creó una aplicación o paquete, y desea que otros desarrolladores contribuyan con ella, puede incluir directrices sobre cómo hacerlo. El [Pacto de colaboradores](https://www.contributor-covenant.org/) es un estándar de la industria, pero siempre puede redactar el suyo si lo prefiere.
+````
 
 ## Pruebas
 
